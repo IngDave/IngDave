@@ -2,19 +2,15 @@
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+  name     = 'David Tejada';
   title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  location = 'Medellin, COL';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'Python', 'Java'];
+  databases  = ['MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'Bootstrap'];
 }
 ```
 ----
-Credit: [thompsonemerson](https://github.com/thompsonemerson)
-
-Last Edited on: 23/09/2020
