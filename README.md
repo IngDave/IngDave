@@ -1,3 +1,4 @@
+```js
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
@@ -12,3 +13,8 @@ class Skills extends SoftwareDeveloper {
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
+```
+----
+Credit: [thompsonemerson](https://github.com/thompsonemerson)
+
+Last Edited on: 23/09/2020
